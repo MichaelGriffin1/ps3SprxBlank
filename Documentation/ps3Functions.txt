@@ -1,0 +1,15 @@
+There are many basic PS3 functions from the 'ps3.h' library.
+
+Here are some examples:
+--------------
+
+    sys_ppu_thread_exit(); - Exits the thread.
+    console_write("Output"); - Writes output to console (Can only be seen by TMAPI. Useful for debugging.)
+    sleep(milliseconds); - Sleeps for specified amount of milliseconds. 1000 is one second.
+
+    ps3.WriteBytes(Offset, {0x0, 0x0}, sizeof({0x0, 0x0})); - Writes a char array with specified size
+    ps3.ReadBytes(Offset, length); - Returns a character array from an offset with specified size
+
+--------------
+
+More functions can be found in the ps3.h file.

@@ -1,0 +1,14 @@
+#
+#  Fri Jun 05 00:14:22 2020
+#  cellPrx_blankModTemplate: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_blankModTemplate_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.9 2012-02-28 23:33:17)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0001
+#
+log_version_update on
+logging on
+removed_entry_check on
+target_version_check on
+  0x037eacb1 F/0 8 645c68e38cf6185590dbd510f88e56c0de0738e9 .text _blankModTemplate_export_function

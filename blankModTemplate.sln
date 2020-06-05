@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blankModTemplate", "blankModTemplate\blankModTemplate.vcxproj", "{51444B98-F2BE-4F21-B67A-FE5E5F2E2A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PS3 = Debug|PS3
+		Release|PS3 = Release|PS3
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51444B98-F2BE-4F21-B67A-FE5E5F2E2A20}.Debug|PS3.ActiveCfg = Debug|PS3
+		{51444B98-F2BE-4F21-B67A-FE5E5F2E2A20}.Debug|PS3.Build.0 = Debug|PS3
+		{51444B98-F2BE-4F21-B67A-FE5E5F2E2A20}.Release|PS3.ActiveCfg = Release|PS3
+		{51444B98-F2BE-4F21-B67A-FE5E5F2E2A20}.Release|PS3.Build.0 = Release|PS3
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

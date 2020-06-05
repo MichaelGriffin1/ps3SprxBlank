@@ -1,0 +1,9 @@
+The dialog functions are quite simple.
+
+Examples:
+--------------------------------
+
+    dialog.OkPrompt("Text"); - Displays a dialog with an ok button
+	dialog.YesNoPrompt("Text"); - Shows a yes/no dialog, and returns the answer as a bool.
+
+--------------------------------

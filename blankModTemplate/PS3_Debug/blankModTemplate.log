@@ -1,0 +1,11 @@
+﻿  modfunctions.cpp
+C:\Users\MichaelGriffin\OneDrive - Sushi Developers\Projects\ps3CppSprx\blankModTemplate\blankModTemplate\dialog.h(74,6): warning 178: variable "ret" was declared but never referenced
+  
+C:\Users\MichaelGriffin\OneDrive - Sushi Developers\Projects\ps3CppSprx\blankModTemplate\blankModTemplate\dialog.h(193,6): warning 178: variable "ret" was declared but never referenced
+  
+C:\Users\MichaelGriffin\OneDrive - Sushi Developers\Projects\ps3CppSprx\blankModTemplate\blankModTemplate\dialog.h(235,6): warning 552: variable "ret" was set but never used
+  
+  prx.cpp
+  ps3.cpp
+  blankModTemplate.vcxproj -> C:\Users\MichaelGriffin\OneDrive - Sushi Developers\Projects\ps3CppSprx\blankModTemplate\PS3_Debug\blankModTemplate.prx
+  Moving Stub Library cellPrx_blankModTemplate_stub.a -> C:\Users\MichaelGriffin\OneDrive - Sushi Developers\Projects\ps3CppSprx\blankModTemplate\PS3_Debug\

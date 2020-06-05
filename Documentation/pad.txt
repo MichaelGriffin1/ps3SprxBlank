@@ -1,0 +1,20 @@
+There is one GetKey function for the controller: GetKey();
+
+It will return these values:
+
+    PAD_LEFT
+    PAD_DOWN
+    PAD_RIGHT
+    PAD_UP
+    PAD_START
+    PAD_R3
+    PAD_L3
+    PAD_SELECT
+    PAD_SQUARE
+    PAD_CROSS
+    PAD_CIRCLE
+    PAD_TRIANGLE
+    PAD_R1
+    PAD_L1
+    PAD_R2
+    PAD_L2
