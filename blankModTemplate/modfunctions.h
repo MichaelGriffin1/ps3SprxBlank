@@ -9,6 +9,6 @@ public:
 class MODF
 {
 public:
-	// Causes a segmentation fault on the thread. Check it out in modfunctions.cpp :)
-	static void causeSegFault();
+	static void causeSegFault(); // Causes a segmentation fault on the thread. Check it out in modfunctions.cpp :)
+	static void infShout(); // Infinite shouts!
 };

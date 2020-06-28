@@ -23,8 +23,12 @@ MODF mod;
 // The main mod thread that the SPRX executes
 void ModThread(uint64_t modthread)
 {
-	dialog.OkPrompt("Test Prompt, the main mod thread will segfault after pressing ok.");
-	mod.causeSegFault();
+	dialog.OkPrompt("This is an example Skyrim mod that grants infinite shouts!");
+
+	for(;;)
+	{
+		mod.infShout();
+	}
 }
 
 // An exported function is needed to generate the project's PRX stub export library

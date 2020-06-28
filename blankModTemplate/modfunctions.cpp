@@ -51,3 +51,14 @@ void MODF::causeSegFault()
 
 	PS3::WriteBytes(zeroOffset, zeroChar, sizeof(zeroChar));
 }
+
+// Grants infinite shouts upon call!
+void MODF::infShout()
+{
+	// Infinite shout offset and char array to write
+	int InfShoutOffeset = 0x8EA00;
+	char InfShoutValue[] = { 0x60, 0x00, 0x00, 0x00 };
+
+	// Writes those into memory
+	PS3::WriteBytes(InfShoutOffeset, InfShoutValue, sizeof(InfShoutValue));
+}
