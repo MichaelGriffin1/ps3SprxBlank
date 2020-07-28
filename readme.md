@@ -12,3 +12,5 @@ This was created with Visual Studio 2015.
 
 This is currently set to pop up a dialog, and then segfault the thread after the Ok button
 is pressed.
+
+Feel free to contribute to the code if there is an issue you have. It will not only help you, but the other people who will use this as well. Im not the perfect developer. :)
